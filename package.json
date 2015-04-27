@@ -1,0 +1,23 @@
+{
+  "name": "assembler-example",
+  "version": "0.0.2-beta2",
+  "description": "Example project for assembler-cli",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Mode7James@github.com/Mode7James/assembler-example"
+  },
+  "author": "James Allen <james@jamesallen.io> (http://www.jamesallen.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mode7James/assembler-example/issues"
+  },
+  "homepage": "https://github.com/Mode7James/assembler-example",
+  "devDependencies": {
+    "assembler-cli": "0.0.2-beta1",
+    "gulp": "^3.8.11"
+  }
+}
