@@ -1,6 +1,6 @@
 {
   "name": "assembler-example",
-  "version": "0.0.2-beta2",
+  "version": "0.0.1",
   "description": "Example project for assembler-cli",
   "main": "app/index.html",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Mode7James/assembler-example",
   "devDependencies": {
-    "assembler-cli": "0.0.2-beta1",
+    "assembler-cli": "0.0.2-beta8",
     "gulp": "^3.8.11"
   }
 }
